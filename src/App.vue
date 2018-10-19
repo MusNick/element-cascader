@@ -14,7 +14,8 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-import address from '../static/area/address.json'
+// import address from '../static/area/element-cascader-address-data/index.json'
+import address from 'element-cascader-address-data'
 
 export default {
   name: 'app',
